@@ -1,7 +1,6 @@
 # Java 8 Demo 
+[![Build Status](https://travis-ci.org/Yatufo/java8demo.svg?branch=master)](https://travis-ci.org/Yatufo/java8demo)
 [![Dependency Status](https://dependencyci.com/github/Yatufo/java8demo/badge)](https://dependencyci.com/github/Yatufo/java8demo)
-[![Build Status](https://travis-ci.org/Yatufo/upgrade.svg?branch=master)](https://travis-ci.org/Yatufo/upgrade)
-
 
 #### Install Dependencies
 * [Gradle](https://gradle.org/)
